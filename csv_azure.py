@@ -21,3 +21,4 @@ with open(DimAgent.csv, newline='') as csvfile:
         cursor.execute(query)
 cnxn.commit()
 cnxn.close()
+print('test')
