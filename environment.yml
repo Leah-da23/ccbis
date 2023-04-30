@@ -1,0 +1,4 @@
+name: '{ccbis_envs}'
+channels:
+  - defaults
+prefix: C:\Data Analyst\projects\envs\{ccbis_envs}
